@@ -1,0 +1,126 @@
+/* *{
+    font-family: 'Roboto', sans-serif;
+
+    
+} */
+
+.nav-brand-font{
+    font-size: 2rem!important;
+}
+.nav-bg-color{
+    background-color: #2c3e50!important;
+   
+}
+.active{
+    background-color: #1abc9c;
+    cursor: pointer;
+
+}
+.icon-width{
+    width: 30px;
+    height: 30px;
+    color: white;
+    cursor: pointer;
+   
+}
+.footer-bg{
+    background-color:#2c3e50;
+    color: white;
+    width: 100%!important;
+}
+.footer-font{
+    font-size: 13px;
+}
+.foot-end{
+    background-color: #1a252f;
+}
+
+
+
+.fa-star-2::before{
+    content: '';
+    width: 6%;
+    height: 3px;
+    background-color: #2c3e50;
+    position: absolute;
+    top: 145%;
+    right: 470px;
+    
+}
+.fa-star-2::after{
+    content: '';
+    width: 6%;
+    height: 3px;
+    background-color: #2c3e50;
+    position: absolute;
+    top: 145%;
+    left: 470px;
+    
+}
+.fa-star-1::before{
+    content: '';
+    width: 6%;
+    height: 3px;
+    background-color: white;
+    position: absolute;
+    top: 145%;
+    right: 470px;
+    
+}
+.fa-star-1::after{
+    content: '';
+    width: 6%;
+    height: 3px;
+    background-color: white;
+    position: absolute;
+    top: 145%;
+    left: 470px;
+    
+}
+.about-bg{
+    background-color: #1abc9c;
+}
+.portfolio-color{
+    color: #2c3e50;
+}
+.img-container{
+    width: 100%;
+}
+.imgs{
+    width: 100%;
+
+}
+.icon-container-opacity{
+    background-color: transparent;
+    width: 94%;
+    height: 100%;
+    transition: .8s;
+   
+}
+.icon-container-opacity:hover{
+    background-color: #1abc9c;
+    width: 94%;
+    height: 100%;
+
+}
+.icon-container-opacity:hover{
+    background-color: #1abc9c;
+    width: 94%;
+    height: 100%;
+
+}
+.icon-container-opacity:hover .icon-plus{
+    color: white;
+    
+}
+.icon-plus{
+    color: transparent;
+    transition: .8s;
+    
+}
+.btn{
+    background-color: #1abc9c!important;
+}
+.img5{
+    width: 240px;
+}
